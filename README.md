@@ -63,9 +63,12 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 
 | Azure Resource | Service Tier | Monthly Cost |
 | ------------ | ------------ | ------------ |
-| *Azure Postgres Database* | Basic (Gen 5 - 1 vCore - Storage 50GB)    |    48.25 USD / month          |
-| *Azure Service Bus*   |    Basic     |  0.5 USD  per 1M Operations per Month             |
-| *Azure Web App *  |   Production (210 total ACU - 3.5 GB Memory - Dv2 Series compute equivalent)      |   93.44 USD/ month           |
+| Azure Postgres Database | Basic (Gen 5 - 1 vCore - Storage 50GB)    |    48.25 USD / month          |
+| Azure Service Bus   |    Basic     |  0.5 USD  per 1M Operations per Month             |
+| *Azure Web App *   |  Production (210 total ACU - 3.5 GB Memory - Dv2 Series compute equivalent)      |   93.44 USD/ month           |
+| Sendgrid | Variable (100 free email per day)    |    0 USD / month          |
+| Azure Functions |     |    0 USD / month          |
+| Estimated monthly cost |     |    142.19 USD / month          |
 
 ## Architecture Explanation
 This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
