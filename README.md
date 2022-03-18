@@ -71,4 +71,14 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | Estimated monthly cost |     |    142.19 USD / month          |
 
 ## Architecture Explanation
-This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
+For Web App:
+ - Easy to deploy with Deployment Center.
+ - Managements of costs.
+ - Not require install much customization than VMs.
+ - Easy to scale.
+ - Infrastrure management is simplify.
+ For Azure Function
+ - Managements of cost.
+ - Cost saving.
+ - Infrastrure management is simplify.
+ - Does not require any installation
