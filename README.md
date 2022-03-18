@@ -77,7 +77,7 @@ For Web App:
  - Not require install much customization than VMs.
  - Easy to scale.
  - Infrastrure management is simplify.
- For Azure Function
+For Azure Function:
  - Managements of cost.
  - Cost saving.
  - Infrastrure management is simplify.
